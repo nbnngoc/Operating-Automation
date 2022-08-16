@@ -45,5 +45,5 @@ function GmailtoDrive() {
   }
   else {
     toast("The update has been done."); // if false, do nothing
-  }
+  } // toast to notify the users
 }
