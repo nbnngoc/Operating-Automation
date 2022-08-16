@@ -1,4 +1,4 @@
-// Store daily .xlsx files from your partner/customer in specific Drive folder(s)
+// Store daily .xlsx files sent from your partner/customer in specific Drive folder(s)
 // Automate with time-driven trigger, e.g. daily
 
 function GmailtoDrive() {
