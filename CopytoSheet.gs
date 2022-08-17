@@ -1,6 +1,6 @@
 function copytoSheet() {
   
-  // 1- Navigate the file to be converted
+  // 1- Navigate the file to be converted 
   let spreadsheet = SpreadsheetApp.openById("spreadsheet_id");
   let currentSpreadsheet = SpreadsheetApp.getActive();
   let sheet = currentSpreadsheet.getSheetByName("Working_Sheet"); // Working_sheet is where to enter input, e.g. file name and run function to retrieve an output
