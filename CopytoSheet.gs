@@ -1,4 +1,4 @@
-function copytoSheet() {
+function CopytoSheet() {
   
   // 1- Navigate the file to be converted 
   let spreadsheet = SpreadsheetApp.openById("spreadsheet_id");
